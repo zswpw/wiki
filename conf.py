@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/"
+site_prefix = "https://wiki.zswsz.com/"
 source_dir = "../src/"
 build_dir = "../dist/"
 template = {
@@ -37,7 +37,8 @@ valine = {
     "appId": "nYV9HWBWqeiAFlTL9sR3blIL-gzGzoHsz",
     "appKey": "xyOnLxhexNgjFAw2oq1pL7Yo",
     "visitor": True,
-    "recordIP": True
+    "recordIP": True,
+    "placeholder": "留下你的想法..."
 }
 
 external_links = [
