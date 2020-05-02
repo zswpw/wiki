@@ -21,13 +21,13 @@ category_by_folder = True
 for_manual_build_trigger = 1
 
 # 站点设置
-site_name = "若水清欢的知识库"
+site_name = "若水清欢📚知识库"
 site_logo = "${static_prefix}android-chrome-512x512.png"
-site_build_date = "2017-06-29T12:00+08:00"
+site_build_date = "2020-05-01T12:00+08:00"
 author = "若水清欢"
 email = "admin@zsw.pw"
 author_homepage = "https://zswsz.com"
-description = "若水清欢的私人Wiki"
+description = "若水清欢📚知识库"
 key_words = ['若水清欢','wiki']
 language = 'zh-CN'
 
@@ -43,7 +43,7 @@ valine = {
 
 external_links = [
     {
-        "name": "若水清欢实证研究",
+        "name": "若水清欢📈实证研究",
         "url": "https://zswsz.com",
         "brief": "大道至简，道隐无名。"
     },
