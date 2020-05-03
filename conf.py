@@ -21,13 +21,13 @@ category_by_folder = True
 for_manual_build_trigger = 1
 
 # 站点设置
-site_name = "若水清欢📚知识库"
+site_name = "若水清欢📖WIKI"
 site_logo = "${static_prefix}android-chrome-512x512.png"
 site_build_date = "2020-05-01T12:00+08:00"
 author = "若水清欢"
 email = "admin@zsw.pw"
 author_homepage = "https://zswsz.com"
-description = "若水清欢📚知识库"
+description = "若水清欢📖WIKI"
 key_words = ['若水清欢','wiki']
 language = 'zh-CN'
 
