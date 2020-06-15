@@ -21,14 +21,14 @@ category_by_folder = True
 for_manual_build_trigger = 1
 
 # 站点设置
-site_name = "若水清欢📖WIKI"
+site_name = "若水のWIKI"
 site_logo = "${static_prefix}android-chrome-512x512.png"
-site_build_date = "2020-05-01T12:00+08:00"
-author = "若水清欢"
+site_build_date = "2020-06-16T12:00+08:00"
+author = "若水"
 email = "admin@zsw.pw"
 author_homepage = "https://zswsz.com"
-description = "若水清欢📖WIKI"
-key_words = ['若水清欢','wiki']
+description = "若水のWIKI"
+key_words = ['若水','wiki']
 language = 'zh-CN'
 
 valine = {
@@ -43,9 +43,9 @@ valine = {
 
 external_links = [
     {
-        "name": "若水清欢📈实证研究",
+        "name": "若水の实证研究",
         "url": "https://zswsz.com",
-        "brief": "大道至简，道隐无名。"
+        "brief": "大道至简 道隐无名"
     },
     {
         "name": "GITHUB",
@@ -102,15 +102,15 @@ head_addon = r'''
 <link rel="icon" type="image/png" sizes="16x16" href="${static_prefix}favicon-16x16.png?v=yyLyaqbyRG">
 <link rel="mask-icon" href="${static_prefix}safari-pinned-tab.svg?v=yyLyaqbyRG" color="#505050">
 <link rel="shortcut icon" href="${static_prefix}favicon.ico?v=yyLyaqbyRG">
-<meta name="application-name" content="若水清欢的知识库">
-<meta name="apple-mobile-web-app-title" content="若水清欢的知识库">
+<meta name="application-name" content="若水のWIKI">
+<meta name="apple-mobile-web-app-title" content="若水のWIKI">
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="theme-color" content="#000000">
 <meta name="baidu-site-verification" content="Or6aUYr0De" />
 '''
 
 footer_addon = r'''
-<a no-style href="https://zswsz.com" target="_blank">若水清欢实证研究</a> | 
+<a no-style href="https://zswsz.com" target="_blank">若水の实证研究</a> | 
 <a no-style href="https://www.github.com" target="_blank">Github.com</a>
 '''
 
