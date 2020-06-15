@@ -2,15 +2,15 @@
 layout: page
 title: 关于
 slug: about
-date: 2020-05-01 08:01
+date: 2020-06-16 00:01
 status: publish
-author: 若水清欢
+author: 若水
 categories:
 comment: false 
 tags: 
 ---
 
-这是若水清欢的个人Wiki。
+这是若水的个人Wiki。
 
 ---
 
